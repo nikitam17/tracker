@@ -1,5 +1,7 @@
 package main
 
+// Добавлены изменения для PR
+
 import (
 	"database/sql"
 	"fmt"
